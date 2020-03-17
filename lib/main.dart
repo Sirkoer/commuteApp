@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        tooltip: 'Gitpod',
+        tooltip: 'random increment',
         child: Icon(Icons.add),
       ),
     );
